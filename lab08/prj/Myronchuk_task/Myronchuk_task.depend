@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1742390346 source:e:\myronchuk-artem-kb24-main\lab08\prj\myronchuk_task\main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+	"ModulesMyronchuk.h"
+
+1742385233 e:\myronchuk-artem-kb24-main\lab08\prj\modulesmyronchuk.h
+

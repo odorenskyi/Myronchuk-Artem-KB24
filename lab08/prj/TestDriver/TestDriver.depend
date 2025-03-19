@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1742387834 source:e:\myronchuk-artem-kb24-main\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<stdexcept>
+	<clocale>
+	"ModulesMyronchuk.h"
+
+1742385233 e:\myronchuk-artem-kb24-main\lab08\prj\modulesmyronchuk.h
+
