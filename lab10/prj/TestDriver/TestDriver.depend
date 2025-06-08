@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1749417450 source:c:\users\administrator\mikroffarad\development\bmtp\myronchuk-artem-kb24\lab10\prj\testdriver\main.cpp
+	"ModulesMyronchuk.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<functional>
+
+1749416944 c:\users\administrator\mikroffarad\development\bmtp\myronchuk-artem-kb24\lab08\prj\modulesmyronchuk.h
+	<string>
+
